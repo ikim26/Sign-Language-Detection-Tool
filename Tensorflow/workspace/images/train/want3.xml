@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>want3.jpg</filename>
+	<path>C:\Users\Js\OneDrive - George Mason University - O365 Production\AnaVation\Hackathon\American Sign Language Letters.v1-v1.tensorflow\image\want3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1698</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>want</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>4</ymin>
+			<xmax>1696</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

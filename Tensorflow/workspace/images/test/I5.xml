@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>I5.jpg</filename>
+	<path>C:\Users\Js\OneDrive - George Mason University - O365 Production\AnaVation\Hackathon\American Sign Language Letters.v1-v1.tensorflow\image\I5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>889</width>
+		<height>1050</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>38</ymin>
+			<xmax>862</xmax>
+			<ymax>1042</ymax>
+		</bndbox>
+	</object>
+</annotation>

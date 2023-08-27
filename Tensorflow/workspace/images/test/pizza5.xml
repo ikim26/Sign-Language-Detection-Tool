@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>pizza5.jpg</filename>
+	<path>C:\Users\Js\OneDrive - George Mason University - O365 Production\AnaVation\Hackathon\American Sign Language Letters.v1-v1.tensorflow\image\pizza5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>541</width>
+		<height>813</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pizza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>2</ymin>
+			<xmax>500</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+</annotation>

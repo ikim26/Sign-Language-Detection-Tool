@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>C6_jpg.rf.4a61ae566ed0f8a43b664e763cbce85d.jpg</filename>
+	<path>C:\Users\Js\OneDrive - George Mason University - O365 Production\AnaVation\Hackathon\American Sign Language Letters.v1-v1.tensorflow\image\C6_jpg.rf.4a61ae566ed0f8a43b664e763cbce85d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>376</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>23</ymin>
+			<xmax>286</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
